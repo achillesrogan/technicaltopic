@@ -2,14 +2,15 @@
 This is a repo for a chosen Technical Topic, Bartending, for use in an application to the Ethereum Foundation.
 Maximizing Efficiency in Bartending: Streamlining Workflow from Ticket to Drink
 ________________________________________
-Introduction
+Introduction:
+
 Efficient bartending is crucial in a fast-paced bar environment, where speed and accuracy directly impact customer satisfaction and revenue. 
 From the moment a bartender receives a ticket, every decision should optimize workflow. This guide explores best practices for bartenders to 
 streamline their processes, from organizing glassware and tools to minimizing unnecessary steps in drink preparation. By leveraging mise en place, 
 using visual cues, and optimizing ergonomic practices, bartenders can reduce distractions and improve service speed, ensuring a smooth, efficient bar operation.
 ________________________________________
 
-Best Practices for Efficient Bartending
+Best Practices for Efficient Bartending:
 
 1. Mise en Place: The Foundation of Efficiency
 Mise en place means “everything in its place,” and it’s essential for smooth, fast service. In a busy bar, a well-organized station saves time by ensuring
