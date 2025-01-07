@@ -1,5 +1,4 @@
-# technicaltopic
-This is a repo for a chosen Technical Topic, Bartending, for use in an application to the Ethereum Foundation.
+
 Maximizing Efficiency in Bartending: Streamlining Workflow from Ticket to Drink
 ________________________________________
 Introduction:
